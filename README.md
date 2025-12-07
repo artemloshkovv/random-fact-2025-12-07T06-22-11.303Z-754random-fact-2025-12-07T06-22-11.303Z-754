@@ -1,2 +1,5 @@
-# random-fact-2025-12-07T06-22-11.303Z-754random-fact-2025-12-07T06-22-11.303Z-754
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Throughout the South, peanuts were known as "Monkey Nuts," and "Goober peas," before the civil war
+
+*Generated on 2025-12-07T06:22:12.901Z*
